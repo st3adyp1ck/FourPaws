@@ -1,0 +1,20 @@
+#lorem {
+  color: grey;
+  font-family: serif;
+}
+
+\ {
+}
+
+.card {
+  border-radius: 30px !important;
+}
+
+.footer-body {
+  border-radius: 30px;
+}
+
+#firstTip {
+  /*height: 300px;*/
+}
+

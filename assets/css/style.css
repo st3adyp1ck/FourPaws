@@ -1,0 +1,33 @@
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: url("../../assets/img/storefront.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#jumbotron1 {
+  border-radius: 20px !important;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+}
+
+#promo.h1 {
+  /*max-width: 500px;*/
+}
+
+@media screen and (max-width: 600px) {
+  #jumbotron1 p {
+    font-size: 32px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #jumbotron1 h1 {
+    font-size: 42px !important;
+  }
+}
+
+.parallax {
+}
+
